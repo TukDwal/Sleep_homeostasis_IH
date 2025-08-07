@@ -11,4 +11,5 @@ Description:
 The other functions are supporting functions necessary for the code to run:
 - mtspecgramc.m: multitaper spectral analysis
 - fit_S_dual_stages.m: mathematical model of sleep pressure
-- finddatagroups: supporting function to extract starting and ending indexes of consecutive values in a vector 
+- finddatagroups: supporting function to extract starting and ending indexes of consecutive values in a vector
+- generateHypno: generates an alternating REM/NREM hypnogram of a given duration and a given proportion of REM
